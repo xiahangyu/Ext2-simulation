@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ext2_fs" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ext2_fs" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ext2_fs" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="blk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="blk.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="create.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="d_inode.h" />
+		<Unit filename="fcntl.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fcntl.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="file_dev.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="file_dev.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="fs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fs.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="m_inode.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="m_inode.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="namei.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="namei.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="open.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="read.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sb.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="task_struct.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="type.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

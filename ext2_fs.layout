@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="blk.c" open="1" top="1" tabpos="12">
+		<Cursor position="372" topLine="0" />
+	</File>
+	<File name="blk.h" open="1" top="0" tabpos="9">
+		<Cursor position="1134" topLine="0" />
+	</File>
+	<File name="create.c" open="1" top="0" tabpos="15">
+		<Cursor position="92" topLine="0" />
+	</File>
+	<File name="d_inode.h" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="fcntl.c" open="1" top="0" tabpos="18">
+		<Cursor position="87" topLine="0" />
+	</File>
+	<File name="fcntl.h" open="1" top="0" tabpos="7">
+		<Cursor position="379" topLine="0" />
+	</File>
+	<File name="file_dev.c" open="1" top="0" tabpos="18">
+		<Cursor position="104" topLine="0" />
+	</File>
+	<File name="file_dev.h" open="1" top="0" tabpos="17">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="fs.c" open="1" top="0" tabpos="10">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="fs.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="m_inode.c" open="1" top="0" tabpos="13">
+		<Cursor position="448" topLine="6" />
+	</File>
+	<File name="m_inode.h" open="1" top="0" tabpos="3">
+		<Cursor position="398" topLine="18" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="namei.c" open="1" top="0" tabpos="7">
+		<Cursor position="334" topLine="228" />
+	</File>
+	<File name="namei.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="open.c" open="1" top="0" tabpos="6">
+		<Cursor position="321" topLine="0" />
+	</File>
+	<File name="read.c" open="1" top="0" tabpos="16">
+		<Cursor position="169" topLine="2" />
+	</File>
+	<File name="sb.c" open="1" top="0" tabpos="14">
+		<Cursor position="49" topLine="0" />
+	</File>
+	<File name="sb.h" open="1" top="0" tabpos="11">
+		<Cursor position="656" topLine="36" />
+	</File>
+	<File name="task_struct.h" open="1" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

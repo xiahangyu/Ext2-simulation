@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1189868556 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1436520624 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\fs.c
+	"fs.h"
+
+1436539978 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\fs.h
+	"d_inode.h"
+	"m_inode.h"
+	"task_struct.h"
+	"errno.h"
+
+1436520702 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\d_inode.h
+	"fs.h"
+	"type.h"
+
+1436520710 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\m_inode.h
+	"fs.h"
+	"type.h"
+
+1436424514 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\task_struct.h
+	"fs.h"
+
+1436520730 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\sb.h
+	"type.h"
+
+1436515158 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\d_inode.c
+	"fs.h"
+	"blk.h"
+	"sb.h"
+
+1436576339 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\blk.h
+	"fs.h"
+	"sb.h"
+
+1436520594 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\blk.c
+	"fs.h"
+	"blk.h"
+	"sb.h"
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1436546006 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\m_inode.c
+	"fs.h"
+	"blk.h"
+	"sb.h"
+
+1436520724 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\type.h
+
+1436576548 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\sb.c
+	"blk.h"
+	"sb.h"
+	"stdio.h"
+
+1436575638 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\fcntl.c
+	"fcntl.h"
+
+1436575930 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\fcntl.h
+	"fs.h"
+
+1436576005 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\create.c
+	"fs.h"
+	"fcntl.h"
+
+1436576491 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\file_dev.c
+	"fs.h"
+	"file_dev.h"
+	<string.h>
+	<math.h>
+
+1436540074 c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\file_dev.h
+	"fs.h"
+
+1436576075 source:c:\documents and settings\administrator.lenovo-2870e9c3\桌面\ext2_fs\read.c
+	"fs.h"
+	"fcntl.h"
+	"blk.h"
+	"string.h"
+
+1436576492 source:g:\ext2_fs\file_dev.c
+	"fs.h"
+	"file_dev.h"
+	<string.h>
+	<math.h>
+
+1436539978 g:\ext2_fs\fs.h
+	"d_inode.h"
+	"m_inode.h"
+	"task_struct.h"
+	"errno.h"
+
+1436520702 g:\ext2_fs\d_inode.h
+	"fs.h"
+	"type.h"
+
+1436520724 g:\ext2_fs\type.h
+
+1436520710 g:\ext2_fs\m_inode.h
+	"fs.h"
+	"type.h"
+
+1436424514 g:\ext2_fs\task_struct.h
+	"fs.h"
+
+1436540074 g:\ext2_fs\file_dev.h
+	"fs.h"
+
+1436520624 source:g:\ext2_fs\fs.c
+	"fs.h"
+
+1436546006 source:g:\ext2_fs\m_inode.c
+	"fs.h"
+	"blk.h"
+	"sb.h"
+
+1436576340 g:\ext2_fs\blk.h
+	"fs.h"
+	"sb.h"
+
+1436520730 g:\ext2_fs\sb.h
+	"type.h"
+
+1189868556 source:g:\ext2_fs\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1436577242 source:g:\ext2_fs\read.c
+	"fs.h"
+	"ext2_fcntl.h"
+	"blk.h"
+	"string.h"
+
+1436576550 source:g:\ext2_fs\sb.c
+	"blk.h"
+	"sb.h"
+	"stdio.h"
+
+1436577020 source:g:\ext2_fs\blk.c
+	"fs.h"
+	"blk.h"
+	"sb.h"
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1436577072 source:g:\ext2_fs\create.c
+	"fs.h"
+	"ext2_fcntl.h"
+
+1436577040 g:\ext2_fs\ext2_fcntl.h
+	"fs.h"
+
+1436577082 source:g:\ext2_fs\ext2_fcntl.c
+	"ext2_fcntl.h"
+
